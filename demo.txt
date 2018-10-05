@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 le cam tung
 tran duc thuan 123
+=======
+tran duc thuan
+>>>>>>> master
